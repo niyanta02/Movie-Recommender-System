@@ -19,7 +19,7 @@ Workflow:
 
 📌 Features
 - Content-based movie recommendations
-- Search movies and get similar suggestions
+- Search for movies and get similar suggestions
 - Fast and interactive Streamlit UI
 - Scalable model storage using AWS S3
 - Fully deployed on Render (cloud hosting)
@@ -53,7 +53,7 @@ movies.pkl
 similarity.pkl
 
 ⚙️ Installation (Local Setup)
-git clone https://github.com/your-username/movie-recommender.git
+git clone [repo-link]
 cd movie-recommender
 pip install -r requirements.txt
 
