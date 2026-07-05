@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System (Streamlit + AWS S3 + Render)
+# 🎬 Movie Recommendation System
 
 A machine learning–based movie recommendation web app built using Python, Streamlit, and cosine similarity, deployed on Render, with large dataset files stored securely on AWS S3.
 Workflow:
